@@ -1,6 +1,6 @@
-# liferay-course-product-management
+# liferay-commerce-courses-baseline
 
-This repository contains the Product Management with Liferay course materials.
+This repository contains the baseline for the Commerce Courses
 
 ## Table of Contents
 
